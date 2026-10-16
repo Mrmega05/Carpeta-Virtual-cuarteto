@@ -79,22 +79,22 @@
   {
     "numero": 9,
     "titulo": "Como el ciervo brama",
-    "tonalidad": "",
-    "pdf": null,
-    "temas": []
+    "tonalidad": "Proximamente",
+    "pdf": Proximamente,
+    "temas": [Proximamente]
   },
   {
     "numero": 10,
     "titulo": "Confia en Dios",
-    "tonalidad": "",
+    "tonalidad": "Proximamente",
     "pdf": "https://drive.google.com/file/d/1DUabo2cpND09kuobEynvJq4eB0HmdVQd/view",
-    "temas": []
+    "temas": [Proximamente]
   },
   {
     "numero": 11,
     "titulo": "Consuelo a los pies de cristo",
-    "tonalidad": "",
-    "pdf": null,
+    "tonalidad": "Proximamente",
+    "pdf": Proximamente,
     "temas": [
       "Paz y consuelo",
       "Cristo y la cruz"
@@ -103,16 +103,16 @@
   {
     "numero": 12,
     "titulo": "Creemos sí",
-    "tonalidad": "",
+    "tonalidad": "A",
     "pdf": "https://drive.google.com/open?id=1mvlThBV52SXvk-EriZR_QFKiFdBvA7sN",
-    "temas": []
+    "temas": [Fe y confianza]
   },
   {
     "numero": 13,
     "titulo": "Cristo señor",
-    "tonalidad": "",
+    "tonalidad": "Proximamente",
     "pdf": "https://drive.google.com/open?id=1v0gB1DlctZPuWUkBJGUDGDDR6usj4YVM",
-    "temas": []
+    "temas": [Proximamente]
   },
   {
     "numero": 14,
@@ -126,16 +126,16 @@
   {
     "numero": 15,
     "titulo": "Cuando estoy en angustias y pruebas",
-    "tonalidad": "",
-    "pdf": null,
-    "temas": []
+    "tonalidad": "Proximamente",
+    "pdf": Proximamente,
+    "temas": [Proximamente]
   },
   {
     "numero": 16,
     "titulo": "Cuento al mundo de su amor.",
-    "tonalidad": "",
+    "tonalidad": "Proximamente",
     "pdf": "https://drive.google.com/open?id=1tYPNeH62EhPksEKJcocoNLflsGDafGaV",
-    "temas": []
+    "temas": [Proximamente]
   },
   {
     "numero": 17,
@@ -189,7 +189,7 @@
     "titulo": "Dilo al mundo",
     "tonalidad": "Ab",
     "pdf": "https://drive.google.com/file/d/18INq0V5OnDeWMfSlwj4KzVgqZ5CoGppm/view?usp=drive_link",
-    "temas": [
+    "temas": [ Proximamente
       "Evangelización"
     ]
   },
@@ -495,9 +495,9 @@
   {
     "numero": 55,
     "titulo": "Suenan melodías en mi ser",
-    "tonalidad": "",
-    "pdf": null,
-    "temas": []
+    "tonalidad": "Proximamente",
+    "pdf": Proximamente,
+    "temas": [Proximamente]
   },
   {
     "numero": 56,
@@ -558,9 +558,9 @@
   {
     "numero": 62,
     "titulo": "Yo no te dejare",
-    "tonalidad": "",
+    "tonalidad": "Proximamente",
     "pdf": "https://drive.google.com/file/d/1fT9C2fYpPIWl6aTXak2zQ268rIeupvh3/view",
-    "temas": [
+    "temas": [Proximamente
       "Fe y confianza",
       "Paz y consuelo"
     ]
