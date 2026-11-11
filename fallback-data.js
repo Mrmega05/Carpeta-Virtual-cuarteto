@@ -338,6 +338,13 @@ window.SONGS_FALLBACK = [
   },
   {
     "numero": 37,
+    "titulo": "Majestad",
+    "tonalidad": "Próximamente",
+    "pdf": "https://drive.google.com/file/d/1zJNOJOWV6ZAgXsI_EmEqWZXHDmgXJ_5z/view?usp=drive_link",
+    "temas": []
+  },
+  {
+    "numero": 38,
     "titulo": "Más allá existe un lugar",
     "tonalidad": "Ab",
     "pdf": "https://drive.google.com/file/d/12wYDfLEM7VOcdtkHK4bdHRW39x_oSJ83/view?usp=drive_link",
@@ -347,7 +354,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 38,
+    "numero": 39,
     "titulo": "Me dijo vive",
     "tonalidad": "Ab",
     "pdf": null,
@@ -356,7 +363,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 39,
+    "numero": 40,
     "titulo": "Me siento bien",
     "tonalidad": "E",
     "pdf": "https://drive.google.com/file/d/1mdoWwzjRrJ7Rl8osA0Sm_sY1F10ucHKm/view?usp=drive_link",
@@ -365,7 +372,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 40,
+    "numero": 41,
     "titulo": "Mi alma estaba muy triste",
     "tonalidad": "Bb",
     "pdf": null,
@@ -374,7 +381,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 41,
+    "numero": 42,
     "titulo": "Mira mi vida señor",
     "tonalidad": "Gb/Db/Bb",
     "pdf": null,
@@ -383,7 +390,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 42,
+    "numero": 43,
     "titulo": "No el corazón se Turbe",
     "tonalidad": "G/",
     "pdf": "https://drive.google.com/file/d/17lTibQEeK4QhugroNxANp1U3aFEN2iAz/view?usp=drive_link",
@@ -393,14 +400,14 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 43,
+    "numero": 44,
     "titulo": "Oh cantadmelas otra vez",
     "tonalidad": "A/C#/E",
     "pdf": null,
     "temas": []
   },
   {
-    "numero": 44,
+    "numero": 45,
     "titulo": "Oh escucha la Voz",
     "tonalidad": "C",
     "pdf": "https://drive.google.com/file/d/1Dfj7VkxCHHXAQGbCb6y2PC-BRxMzzXPD/view?usp=drive_link",
@@ -410,7 +417,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 45,
+    "numero": 46,
     "titulo": "Oh hermosa Canaán",
     "tonalidad": "G#",
     "pdf": "https://drive.google.com/open?id=1jDNu_y3LGsPUVWB-wSoTfuuDg8iL3Uk7",
@@ -420,7 +427,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 46,
+    "numero": 47,
     "titulo": "Oh que esperanza",
     "tonalidad": "Ab",
     "pdf": "https://drive.google.com/open?id=1UODZENg6xofuL0UnIzP1SdpbHhPbYTUy",
@@ -429,7 +436,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 47,
+    "numero": 48,
     "titulo": "Padre te Amo",
     "tonalidad": "C",
     "pdf": null,
@@ -439,7 +446,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 48,
+    "numero": 49,
     "titulo": "Perdido fui",
     "tonalidad": "Db/F/Ab",
     "pdf": "https://drive.google.com/file/d/12jq_k53LhEFBsg4SiYRfBzn60ePv4gXS/view?usp=drive_link",
@@ -448,7 +455,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 49,
+    "numero": 50,
     "titulo": "Por mí.",
     "tonalidad": "G/D/G/B",
     "pdf": "https://drive.google.com/open?id=1HESlAfxxt5L0uqXfnNsccHewTacqL9J3",
@@ -458,7 +465,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 50,
+    "numero": 51,
     "titulo": "Rendido a tus pies",
     "tonalidad": "D",
     "pdf": "https://drive.google.com/file/d/1474ZNIVSSBrBpj5oGwG7KkRScwZF8qOj/view?usp=sharing",
@@ -467,7 +474,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 51,
+    "numero": 52,
     "titulo": "Rosa de saron",
     "tonalidad": "G/D/G/B",
     "pdf": "https://drive.google.com/open?id=13Fmb22cSAr7cLqZiOQ1e6k911gdbEpkh",
@@ -477,7 +484,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 52,
+    "numero": 53,
     "titulo": "Señor al hogar",
     "tonalidad": "B",
     "pdf": "https://docs.google.com/document/d/132Pay4G4lFs9PCRiFoMs2-1t11R0o7u7/edit?usp=drive_link&ouid=116737958113134714315&rtpof=true&sd=true",
@@ -486,7 +493,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 53,
+    "numero": 54,
     "titulo": "Señor quiero serte fiel",
     "tonalidad": "D",
     "pdf": null,
@@ -496,7 +503,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 54,
+    "numero": 55,
     "titulo": "Si tú amas a cristo",
     "tonalidad": "Eb",
     "pdf": "https://drive.google.com/file/d/10FQIxJsG996S6e-Tk_BG7qmQWZ1FYlxk/view?usp=drive_link",
@@ -506,7 +513,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 55,
+    "numero": 56,
     "titulo": "Suenan melodías en mi ser",
     "tonalidad": "Próximamente",
     "pdf": null,
@@ -515,7 +522,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 56,
+    "numero": 57,
     "titulo": "Te quiero presentar",
     "tonalidad": "Bb",
     "pdf": "https://drive.google.com/open?id=1YOfx_xfAUBsEpmp6zh7Rhl4U1dRYs-m-",
@@ -524,7 +531,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 57,
+    "numero": 58,
     "titulo": "Ven ¡Oh, Pródigo ven!",
     "tonalidad": "F",
     "pdf": "https://drive.google.com/open?id=1BZrMZwFVTy-oET2G5n0qvQGcc3tbmEO2",
@@ -534,7 +541,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 58,
+    "numero": 59,
     "titulo": "Voy a mi Hogar",
     "tonalidad": "Db",
     "pdf": "https://drive.google.com/file/d/1PqWun6M6Nz2x5bMXD5WXjomDhrdzckgL/view?usp=drive_link",
@@ -544,7 +551,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 59,
+    "numero": 60,
     "titulo": "Ya cristo viene",
     "tonalidad": "C#",
     "pdf": "https://drive.google.com/file/d/1RSqtWz5o4e3yavQTEeL2k_80YLYRHiIX/view?usp=sharing",
@@ -553,7 +560,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 60,
+    "numero": 61,
     "titulo": "Ya el día se aproxima",
     "tonalidad": "C/E/G/C",
     "pdf": "https://drive.google.com/open?id=1xcUfoRx8INx4z4GSX8kzkve8N3GJAwx6",
@@ -562,7 +569,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 61,
+    "numero": 62,
     "titulo": "Ya pronto vendrá el Rey",
     "tonalidad": "Ab/Eb/C",
     "pdf": "https://drive.google.com/file/d/1IKNJwODUjNt2Esk8JFw5VaKDHTd4CURe/view?usp=drive_link",
@@ -571,7 +578,7 @@ window.SONGS_FALLBACK = [
     ]
   },
   {
-    "numero": 62,
+    "numero": 63,
     "titulo": "Yo no te dejare",
     "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/file/d/1fT9C2fYpPIWl6aTXak2zQ268rIeupvh3/view",
@@ -579,12 +586,5 @@ window.SONGS_FALLBACK = [
       "Fe y confianza",
       "Paz y consuelo"
     ]
-  },
-  {
-    "numero": 63,
-    "titulo": "Majestad",
-    "tonalidad": "Próximamente",
-    "pdf": "https://drive.google.com/file/d/1zJNOJOWV6ZAgXsI_EmEqWZXHDmgXJ_5z/view?usp=drive_link",
-    "temas": []
   }
 ];
