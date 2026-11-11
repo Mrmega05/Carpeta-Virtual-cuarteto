@@ -579,5 +579,12 @@ window.SONGS_FALLBACK = [
       "Fe y confianza",
       "Paz y consuelo"
     ]
+  },
+  {
+    "numero": 63,
+    "titulo": "Majestad",
+    "tonalidad": "Próximamente",
+    "pdf": "https://drive.google.com/file/d/1zJNOJOWV6ZAgXsI_EmEqWZXHDmgXJ_5z/view?usp=drive_link",
+    "temas": []
   }
 ];
