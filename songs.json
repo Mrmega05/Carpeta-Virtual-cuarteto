@@ -53,7 +53,7 @@
     "tonalidad": "F#/A",
     "pdf": "https://drive.google.com/file/d/19SKubF1GLJTbNQTBgAgvyA13siU_EGTB/view",
     "temas": [
-       "Perdón y restauración"
+      "Perdón y restauración"
     ]
   },
   {
@@ -79,22 +79,26 @@
   {
     "numero": 9,
     "titulo": "Como el ciervo brama",
-    "tonalidad": "Proximamente",
-    "pdf": Proximamente,
-    "temas": [Proximamente]
+    "tonalidad": "Próximamente",
+    "pdf": null,
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 10,
     "titulo": "Confia en Dios",
-    "tonalidad": "Proximamente",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/file/d/1DUabo2cpND09kuobEynvJq4eB0HmdVQd/view",
-    "temas": [Proximamente]
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 11,
     "titulo": "Consuelo a los pies de cristo",
-    "tonalidad": "Proximamente",
-    "pdf": Proximamente,
+    "tonalidad": "Próximamente",
+    "pdf": null,
     "temas": [
       "Paz y consuelo",
       "Cristo y la cruz"
@@ -105,14 +109,18 @@
     "titulo": "Creemos sí",
     "tonalidad": "A",
     "pdf": "https://drive.google.com/open?id=1mvlThBV52SXvk-EriZR_QFKiFdBvA7sN",
-    "temas": [Fe y confianza]
+    "temas": [
+      "Fe y confianza"
+    ]
   },
   {
     "numero": 13,
     "titulo": "Cristo señor",
-    "tonalidad": "Proximamente",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/open?id=1v0gB1DlctZPuWUkBJGUDGDDR6usj4YVM",
-    "temas": [Proximamente]
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 14,
@@ -126,16 +134,20 @@
   {
     "numero": 15,
     "titulo": "Cuando estoy en angustias y pruebas",
-    "tonalidad": "Proximamente",
-    "pdf": Proximamente,
-    "temas": [Proximamente]
+    "tonalidad": "Próximamente",
+    "pdf": null,
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 16,
     "titulo": "Cuento al mundo de su amor.",
-    "tonalidad": "Proximamente",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/open?id=1tYPNeH62EhPksEKJcocoNLflsGDafGaV",
-    "temas": [Proximamente]
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 17,
@@ -189,7 +201,7 @@
     "titulo": "Dilo al mundo",
     "tonalidad": "Ab",
     "pdf": "https://drive.google.com/file/d/18INq0V5OnDeWMfSlwj4KzVgqZ5CoGppm/view?usp=drive_link",
-    "temas": [ Proximamente
+    "temas": [
       "Evangelización"
     ]
   },
@@ -495,9 +507,11 @@
   {
     "numero": 55,
     "titulo": "Suenan melodías en mi ser",
-    "tonalidad": "Proximamente",
-    "pdf": Proximamente,
-    "temas": [Proximamente]
+    "tonalidad": "Próximamente",
+    "pdf": null,
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 56,
@@ -558,9 +572,9 @@
   {
     "numero": 62,
     "titulo": "Yo no te dejare",
-    "tonalidad": "Proximamente",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/file/d/1fT9C2fYpPIWl6aTXak2zQ268rIeupvh3/view",
-    "temas": [Proximamente
+    "temas": [
       "Fe y confianza",
       "Paz y consuelo"
     ]
