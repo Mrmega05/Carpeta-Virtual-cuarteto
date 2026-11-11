@@ -1,4 +1,4 @@
-// Copia de respaldo de songs.json, usada solo si fetch() falla al abrir index.html con doble clic.
+// Generado desde songs.json. Actualizar con node scripts/sync-songs.mjs
 window.SONGS_FALLBACK = [
   {
     "numero": 1,
@@ -51,9 +51,11 @@ window.SONGS_FALLBACK = [
   {
     "numero": 6,
     "titulo": "Aunque sean como Grana",
-    "tonalidad": "",
-    "pdf": null,
-    "temas": []
+    "tonalidad": "F#/A",
+    "pdf": "https://drive.google.com/file/d/19SKubF1GLJTbNQTBgAgvyA13siU_EGTB/view",
+    "temas": [
+      "Perdón y restauración"
+    ]
   },
   {
     "numero": 7,
@@ -78,21 +80,25 @@ window.SONGS_FALLBACK = [
   {
     "numero": 9,
     "titulo": "Como el ciervo brama",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": null,
-    "temas": []
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 10,
     "titulo": "Confia en Dios",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/file/d/1DUabo2cpND09kuobEynvJq4eB0HmdVQd/view",
-    "temas": []
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 11,
     "titulo": "Consuelo a los pies de cristo",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": null,
     "temas": [
       "Paz y consuelo",
@@ -102,16 +108,20 @@ window.SONGS_FALLBACK = [
   {
     "numero": 12,
     "titulo": "Creemos sí",
-    "tonalidad": "",
+    "tonalidad": "A",
     "pdf": "https://drive.google.com/open?id=1mvlThBV52SXvk-EriZR_QFKiFdBvA7sN",
-    "temas": []
+    "temas": [
+      "Fe y confianza"
+    ]
   },
   {
     "numero": 13,
     "titulo": "Cristo señor",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/open?id=1v0gB1DlctZPuWUkBJGUDGDDR6usj4YVM",
-    "temas": []
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 14,
@@ -125,16 +135,20 @@ window.SONGS_FALLBACK = [
   {
     "numero": 15,
     "titulo": "Cuando estoy en angustias y pruebas",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": null,
-    "temas": []
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 16,
     "titulo": "Cuento al mundo de su amor.",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/open?id=1tYPNeH62EhPksEKJcocoNLflsGDafGaV",
-    "temas": []
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 17,
@@ -494,9 +508,11 @@ window.SONGS_FALLBACK = [
   {
     "numero": 55,
     "titulo": "Suenan melodías en mi ser",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": null,
-    "temas": []
+    "temas": [
+      "Próximamente"
+    ]
   },
   {
     "numero": 56,
@@ -557,7 +573,7 @@ window.SONGS_FALLBACK = [
   {
     "numero": 62,
     "titulo": "Yo no te dejare",
-    "tonalidad": "",
+    "tonalidad": "Próximamente",
     "pdf": "https://drive.google.com/file/d/1fT9C2fYpPIWl6aTXak2zQ268rIeupvh3/view",
     "temas": [
       "Fe y confianza",
